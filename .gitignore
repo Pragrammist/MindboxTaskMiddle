@@ -19,6 +19,8 @@
 # Mono auto generated files
 mono_crash.*
 
+.idea
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -403,6 +405,7 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 .idea
+FigureCalculator.sln.DotSettings.user
 
 ##
 ## Visual studio for Mac
